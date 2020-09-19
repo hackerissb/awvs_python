@@ -11,8 +11,8 @@ ssl._create_default_https_context = ssl._create_unverified_context
 # os.environ['http_proxy'] = 'http://127.0.0.1:8080'
 # os.environ['https_proxy'] = 'https://127.0.0.1:8080'
 
-IP = 'huash.f3322.net'
-API_KEY = '1986ad8c0a5b3df4d7028d5f3c06e936c63d0cec194ea4c4aadd3295e808c9cc6'
+IP = '' #ip
+API_KEY = ''#key
 
 '''
     create_target函数
